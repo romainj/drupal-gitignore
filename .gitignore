@@ -16,8 +16,9 @@
 /web/sites/development.services.yml
 /web/example.gitignore
 
-# Ignore .env file
+# Ignore .env files
 *.env
+
 # Ignore IDE files
 /.idea/
 /.vscode/
