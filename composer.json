@@ -1,0 +1,20 @@
+{
+  "name": "romainj/drupal-gitignore",
+  "description": "Drupal .gitignore file.",
+  "type": "drupal-gitignore",
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://github.com/romainj/drupal-gitignore",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ],
+  "extra": {
+    "installer-paths": {
+      "": [
+        "type:drupal-gitignore"
+      ]
+    }
+  }
+}
